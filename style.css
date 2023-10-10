@@ -1,0 +1,500 @@
+.as{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+
+}
+.ad{
+
+}
+.ad span{
+    color: crimson;
+    font-size: 40px;
+}
+.ad h2{
+font-size: 40px;
+}
+.af{
+display: flex;
+padding-top: 20px;
+}
+.af li{
+padding: 15px;
+list-style-type: none;
+}
+.af li a{
+text-decoration: none;
+color: black;
+font-size: 25px;
+font-weight: 600;
+}
+.af li a:hover{
+color: aqua;
+}
+
+
+
+
+
+
+.sa{
+text-align: center;
+background-image: url("9de3c5ba-e9ee-4a41-ae93-575bbbb8ae0b.jpg");
+background-attachment: fixed;
+padding-top: 100px;
+padding-bottom: 100px;
+background-size: cover;
+}
+.ss{
+
+}
+.ss h2{
+font-size: 30px;
+color:black;
+}
+.ss span{
+   color: rgb(252, 39, 7); 
+}
+.sd{
+
+}
+.sd p{
+    line-height: 7px;
+}
+
+
+
+
+
+
+.da{
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 40px;
+}
+.ds{
+
+}
+.ds span{
+    color: crimson;
+}
+.ds h2{
+font-size: 40px;
+font-weight: 700;
+}
+.dd{
+height: 5px;
+width: 100px;
+background-color: black;
+margin-left: 47%;
+}
+.df{
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.df p{
+
+}
+.dg{
+padding-top: 20px;
+}
+.dg a{
+    text-decoration: none;
+    font-weight: 700;
+    padding: 20px 20px;
+    background-color: rgb(8, 0, 15);
+    font-size: 20px;
+    border-style: dotted;
+    border-radius: 50%;
+    color: aqua;
+}
+.dg a:hover{
+    color: rgb(247, 151, 7);
+}
+
+
+
+
+
+
+
+.fg{
+padding-left: 20px;
+padding-bottom: 20px;
+display: flex;
+justify-content: space-between;
+text-align: center;
+column-gap: 30px;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+.fa{
+border-style: dotted;
+background-color: aqua;
+}
+.fa i{
+    font-size: 35px;
+    color: rgb(247, 5, 230);
+}
+.faa{
+
+}
+.fs{
+
+}
+.fs h2{
+    text-transform: uppercase;
+}
+.fd{
+padding-left: 20px;
+padding-right: 20px;
+}
+
+
+
+
+.ga{
+padding-left: 20px;
+padding-right: 20px;
+display: flex;
+justify-content: space-between;
+}
+.gs{
+height: 70px;
+text-align: center;
+color:rgb(116, 8, 249);
+width: 300px;
+border-style: dotted;
+display: flex;
+column-gap: 20px;
+margin-bottom: 10px;
+}
+.gd{
+padding-top: 15px;
+padding-left: 10px;
+}
+.gd h2{
+
+}
+.gd i{
+    font-size: 30px;
+    color: blue;
+}
+.gf{
+
+}
+.gf h2{
+
+}
+
+
+
+
+.ha{
+padding-left: 20px;
+padding-right: 20px;
+display: flex;
+justify-content: space-between;
+background-color: rgb(34, 236, 169);
+}
+.hs{
+text-align: center;
+padding: 30px 0;
+}
+.hd{
+
+}
+.hd i{
+    font-size: 30px;
+    color: crimson;
+}
+.hf{
+
+}
+.hf h2{
+    font-size: 30px;
+    color: rgb(6, 72, 240);
+}
+.hg{
+
+}
+.hg h3{
+    font-size: 25px;
+}
+
+
+
+
+
+.ja{
+padding: 25px 0;
+}
+.js{
+text-align: center;
+}
+.jd{
+
+}
+.jd span{
+    color: crimson;
+}
+.jd h2{
+font-size: 26px;
+}
+.jf{
+height: 4px;
+width: 40px;
+background-color: aqua;
+margin-left: 49%;
+}
+.jg{
+
+}
+
+
+.ka{
+padding-left: 20px;
+padding-right: 20px;
+display: flex;
+justify-content:space-between;
+}
+.ks{
+    font-size: 20px;
+    color: crimson;
+}
+
+
+
+.la{
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+background-color: antiquewhite;
+}
+.ll{
+display: flex;
+justify-content: center;
+column-gap: 5px;
+}
+.ls{
+
+}
+.ls img{
+height: 200px;
+width: 300px;
+}
+
+
+
+
+
+.qq{
+ padding: 20px 20px;
+ background-color: rgb(177, 228, 188);
+}
+.qa{
+display: flex;
+justify-content: space-around;
+padding-top: 10px;
+}
+.qs{
+text-align: center;
+height: 470px;
+width: 400px;
+border-style: dotted;
+border-color: black;
+}
+.qd{
+font-size: 25px;
+padding-left:230px
+}
+.qd span{
+color: crimson;
+}
+.qd h2{
+
+}
+.qf{
+
+}
+.qf img{
+height: 200px;
+width: 300px;
+}
+.qg{
+
+}
+.qg h2{
+color: blue;
+}
+.qh{
+
+}
+.qh h2{
+
+}
+.qj{
+
+}
+.qj a{
+text-decoration: none;
+font-size: 12px;
+font-weight: 600;
+padding: 10px 15px;
+border-style: dotted;
+border-radius: 50%;
+background-color: rgb(86, 247, 5);
+}
+.qj a:hover{
+    color:crimson;
+    background-color: black;
+}
+
+.wa{
+
+}
+.ws{
+text-align: center;
+margin: 40px 0;
+}
+.ws a{
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 600;
+    color: crimson;
+    border-style: dotted;
+    background-color: black;
+}
+.ws a:hover{
+    background-color: aqua;
+    color: black;
+}
+
+
+.ea{
+padding-left: 20px;
+padding-right: 20px;
+display: flex;
+column-gap: 60px;
+padding-top: 20px;
+padding-bottom: 20px;
+background-color: antiquewhite;
+}
+.es{
+padding-top: 20px;
+}
+.es img{
+    height: 570px;
+    width: 400px;
+}
+.ed{
+
+}
+.ef{
+line-height: 7px;
+padding-bottom: 20px;
+}
+.ef h4{
+color: crimson;
+}
+.ef h2{
+font-size: 25px;
+}
+.eg{
+height: 4px;
+width: 30px;
+background-color: blue;
+}
+
+.eh{
+display: flex;
+column-gap: 15px;
+}
+.eh i{
+    margin-top: 17px;
+    font-size: 40px;
+    color: blueviolet;
+}
+.ej{
+
+}
+.ej p{
+width: 400px;
+}
+.ek{
+margin-top: 40px;
+}
+.ek a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 15px;
+    border-style: double;
+    background-color: black;
+    color: aqua;
+}
+.ek a:hover{
+    background-color: aqua;
+    color: black;
+}
+
+
+.ra{
+padding: 30px 20px;
+background-image: url("9de3c5ba-e9ee-4a41-ae93-575bbbb8ae0b.jpg");
+background-repeat: no-repeat;
+background-position:inherit;
+background-size: cover;
+background-clip: content-box;
+}
+.rs{
+text-align: center;
+}
+.rs h2{
+    font-size: 30px;
+    font-weight: 800;
+    color: crimson;
+    font-style: oblique;
+}
+.rs p{
+    font-style: oblique;
+    padding: 0 70px;
+}
+.rd{
+text-align: center;
+margin: 40px 0;
+}
+.rd a{
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 20px;
+    padding: 10px 15px;
+    background-color: black;
+    color: crimson;
+    font-weight: 600;
+    border-style: groove;
+}
+.rd a:hover{
+    background-color: crimson;
+    color: black;
+}
+
+.ta{
+    margin-left: 20px; 
+    height: 200px; 
+   width: 200px;
+   border-style: dotted;
+   border-color: blue;
+   text-align: center;
+   overflow: auto;
+   background-color: aquamarine;
+}
+
